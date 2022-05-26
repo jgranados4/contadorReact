@@ -1,0 +1,16 @@
+button{
+    margin: 10px;
+    width:250px;
+    height:80px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    border-radius: 9px;
+    color: black;
+    border:  2px solid white;
+    font-weight: bold;
+    cursor: pointer;
+}
+button:hover{
+    background-color: greenyellow;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 1px 1px 1px red;
+}
