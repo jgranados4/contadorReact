@@ -24,3 +24,12 @@ html,body{
 .freecodecamp-logo{
     height:50px;
 }
+.contenedor-principal{
+    height:550px;
+    min-width: 660px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
